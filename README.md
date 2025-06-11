@@ -1,5 +1,5 @@
 # CodeAlpha_EDA
-Exploratory Data Analysis on a Books Dataset using Python
+Task 2 -Exploratory Data Analysis on a Books Dataset using Python
 # 📘 EDA on Books Dataset
 
 This repository contains a detailed Exploratory Data Analysis (EDA) performed on a dataset of books.
